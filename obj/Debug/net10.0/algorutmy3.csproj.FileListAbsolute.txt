@@ -1,0 +1,14 @@
+C:\Users\Ksenia\Desktop\algorutmy3\bin\Debug\net10.0\algorutmy3.exe
+C:\Users\Ksenia\Desktop\algorutmy3\bin\Debug\net10.0\algorutmy3.deps.json
+C:\Users\Ksenia\Desktop\algorutmy3\bin\Debug\net10.0\algorutmy3.runtimeconfig.json
+C:\Users\Ksenia\Desktop\algorutmy3\bin\Debug\net10.0\algorutmy3.dll
+C:\Users\Ksenia\Desktop\algorutmy3\bin\Debug\net10.0\algorutmy3.pdb
+C:\Users\Ksenia\Desktop\algorutmy3\obj\Debug\net10.0\algorutmy3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ksenia\Desktop\algorutmy3\obj\Debug\net10.0\algorutmy3.AssemblyInfoInputs.cache
+C:\Users\Ksenia\Desktop\algorutmy3\obj\Debug\net10.0\algorutmy3.AssemblyInfo.cs
+C:\Users\Ksenia\Desktop\algorutmy3\obj\Debug\net10.0\algorutmy3.csproj.CoreCompileInputs.cache
+C:\Users\Ksenia\Desktop\algorutmy3\obj\Debug\net10.0\algorutmy3.dll
+C:\Users\Ksenia\Desktop\algorutmy3\obj\Debug\net10.0\refint\algorutmy3.dll
+C:\Users\Ksenia\Desktop\algorutmy3\obj\Debug\net10.0\algorutmy3.pdb
+C:\Users\Ksenia\Desktop\algorutmy3\obj\Debug\net10.0\algorutmy3.genruntimeconfig.cache
+C:\Users\Ksenia\Desktop\algorutmy3\obj\Debug\net10.0\ref\algorutmy3.dll
